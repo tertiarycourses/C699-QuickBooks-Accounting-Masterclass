@@ -1,0 +1,14 @@
+source-wsq/
+.env
+.env.*
+.claude/
+.DS_Store
+assessment/
+reference/
+tmp/
+build/
+courseware/build/
+courseware/archive/
+__pycache__/
+*.pyc
+~$*
